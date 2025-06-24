@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do Simulador de Investimentos em FIIs! Esta ferramenta foi desenvolvida em Microsoft Excel para ser uma solução completa e intuitiva, permitindo ao usuário projetar o crescimento de seu patrimônio, simular cenários de longo prazo e diversificar sua carteira de investimentos com base em seu perfil de risco.
 
 <p align="center">
-  <img src="./images/image_3fde1c.png" alt="Visão Geral do Simulador" width="600">
+  <img src="./images/projeto.png" alt="Visão Geral do Simulador" width="600">
 </p>
 
 ## Visão Geral do Projeto
@@ -169,7 +169,9 @@ End Sub
 
 Para facilitar a edição e manutenção da planilha, foi inserido um ícone de seta que funciona como um **botão de acesso ao modo de edição**. Ao ser clicado, ele executa a macro `RestaurarVisualizacaoPadrao`, que desativa a interface de "aplicativo" e reexibe as ferramentas padrão do Excel.
 
-![Ícone para alternar para o Modo de Edição](./images/seta.png)
+<p align="center">
+  <img src="./images/seta.png" alt="Ícone do Botão de Edição" width="120">
+</p>
 
 Para replicar essa funcionalidade em seu projeto, siga os passos:
 
