@@ -6,6 +6,14 @@ Bem-vindo ao repositório do Simulador de Investimentos em FIIs! Esta ferramenta
   <img src="./images/projeto.png" alt="Visão Geral do Simulador" width="600">
 </p>
 
+<p align="center">
+  <img src="./images/comentarios.png" alt="Visão Geral do Simulador" width="600">
+</p>
+
+<p align="center">
+  <img src="./images/configuracoes.png" alt="Visão Geral do Simulador" width="600">
+</p>
+
 ## Visão Geral do Projeto
 
 O objetivo deste projeto é ir além de uma simples planilha de cálculos. Trata-se de uma **ferramenta de análise financeira** que responde a perguntas de negócio essenciais para qualquer investidor de fundos imobiliários:
